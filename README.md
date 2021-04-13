@@ -4,3 +4,4 @@
 该项目采用前后端分离，前端主要使用vue3.0以及ElementUI组件开发，后端使用了springboot+mybatis+redis，安全方面使用spring security框架对controller的方法进行权限控制以及用户密码加密
 
 项目部署在nginx上，利用Nginx的反向代理解决前端的跨域问题，也可以将后端项目运行到多台服务器进行负载均衡
+
